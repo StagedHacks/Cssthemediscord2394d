@@ -353,10 +353,6 @@
   background-color: var(--darkplus-bg2);
 }
 
-.markup-eYLPri blockquote, .markup-eYLPri pre {
-  max-width: 100%;
-}
-
 .avatar-2e8lTP.clickable-31pE3P {
   filter: drop-shadow(0 0 5px);
   color: var(--darkplus-sec);
