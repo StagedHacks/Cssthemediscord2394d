@@ -27,3 +27,7 @@
   padding: 8px;
   border-radius: 15px;
 }
+
+.markup-eYLPri blockquote, .markup-eYLPri pre {
+  max-width: 100%;
+}
