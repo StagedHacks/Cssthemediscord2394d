@@ -222,4 +222,627 @@ dnlib.dll
 dnlib.pdb
 icsharpcode.sharpziplib.dll
 icsharpcode.sharpziplib.pdb
-discord.exe
+ida.exe
+ollydbg.exe
+x64dbg.exe
+windbg.exe
+ImmunityDebugger.exe
+CheatEngine.exe
+Fiddler.exe
+Wireshark.exe
+dnSpy.exe
+HxD.exe
+LordPE.exe
+PEiD.exe
+ProcessHacker.exe
+ResourceHacker.exe
+UPX.exe
+ExeinfoPe.exe
+ScyllaHide.exe
+CFF Explorer.exe
+PE-bear.exe
+Procmon.exe
+Regshot.exe
+ProcessMonitor.exe
+API Monitor.exe
+SpyStudio.exe
+Wireshark.exe
+SysinternalsSuite.exe
+Shellcode_launcher.exe
+ApateDNS.exe
+VirtualKD.exe
+Dbgview.exe
+HookExplorer.exe
+MegaDumper.exe
+FileInsight.exe
+ResEdit.exe
+DebugView.exe
+NetResView.exe
+PEStudio.exe
+OllyDumpEx.exe
+IDA Freeware.exe
+QuickUnpack.exe
+ProcDump.exe
+sysdump.exe
+HeapMemView.exe
+TitanHide.exe
+PPEE (puppy).exe
+x32_dbg.exe
+JEB Decompiler.exe
+GhidraRun.bat
+IDA64.exe
+OllyDbg.exe
+Scylla_x64.exe
+Scylla_x86.exe
+SandboxieInstall.exe
+Cuckoo Sandbox.exe
+Monetra.exe
+ThreatExpert Memory Scanner.exe
+VMwareTray.exe
+VMwareUser.exe
+vmtoolsd.exe
+vmware-vmx.exe
+vmware-vmx-debug.exe
+VirtualBox.exe
+VBoxTray.exe
+VBoxService.exe
+VBoxHeadless.exe
+VBoxNetDHCP.exe
+VBoxNetAdpCtl.exe
+VBoxSVC.exe
+QEMU.exe
+qemu-system-x86_64.exe
+qemu-system-i386.exe
+qemu-system-arm.exe
+qemu-system-aarch64.exe
+qemu-system-mips.exe
+qemu-system-ppc.exe
+qemu-system-sparc.exe
+qemu-system-sh4.exe
+qemu-system-xtensa.exe
+qemu-img.exe
+qemu-nbd.exe
+qemu-io.exe
+qemu-ga.exe
+qemu-storage-daemon.exe
+IDAG.exe
+VMMap.exe
+S2E.exe
+WinDbg.exe
+Wireshark-gtk.exe
+wireshark-qt.exe
+CodeReflect.exe
+HexEditorNeo.exe
+IDA Pro.exe
+radare2.exe
+ollydbg64.exe
+PirateCrack.exe
+CodeHacker.exe
+AntiReversingTool.exe
+CrackMaster.exe
+CrackWizard.exe
+CodeBreaker.exe
+ReverseEngineer.exe
+HackScript.exe
+ObfuscateMe.exe
+BinaryAnalyzer.exe
+TamperGuard.exe
+PatcherTool.exe
+MaliciousInjector.exe
+CodeIntruder.exe
+DisassemblePro.exe
+AntiReverseKit.exe
+AssemblySpy.exe
+Hacktivate.exe
+EncryptedPatcher.exe
+HookDetective.exe
+DebuggerBypass.exe
+CodeGuardian.exe
+MalwareInjector.exe
+AntiDebugTool.exe
+BinaryManipulator.exe
+ReverseCodeGuru.exe
+TamperShield.exe
+BreakItDown.exe
+CrackSense.exe
+DebugEvasion.exe
+GuardCode.exe
+CodeSafeguard.exe
+PatchMaster.exe
+BinaryGuard.exe
+TamperSentry.exe
+HackProof.exe
+DeobfuscateMe.exe
+AntiTamperTool.exe
+MaliciousPatcher.exe
+CodePry.exe
+AntiReverseShield.exe
+AssemblyHacker.exe
+InjectShield.exe
+BreakDebugger.exe
+DebugDefender.exe
+GuardCodePro.exe
+CodeDefender.exe
+ReverseWarrior.exe
+TamperSeal.exe
+CrackSafeguard.exe
+DebuggerAvoider.exe
+BinarySecurity.exe
+CodeGuardPro.exe
+AntiHackToolkit.exe
+PatchGuardian.exe
+TamperSense.exe
+CodeFortress.exe
+ReverseNinja.exe
+HackBlocker.exe
+InjectGuard.exe
+BreakReverse.exe
+DebugProtector.exe
+GuardCodeElite.exe
+CodeSentry.exe
+BinaryVigilant.exe
+TamperGuardPro.exe
+CrackBarrier.exe
+AntiDebuggerTool.exe
+PatcherGuard.exe
+MalwareDefender.exe
+CodeVanguard.exe
+ReverseMaster.exe
+HackStopper.exe
+InjectProtector.exe
+BreakGuard.exe
+DebugHunter.exe
+GuardCodeUltra.exe
+CodeWarden.exe
+BinaryWatchdog.exe
+TamperBlocker.exe
+CrackDefender.exe
+AntiReverseArmor.exe
+PatchWarrior.exe
+MaliciousGuard.exe
+CodeSentinel.exe
+ReverseWarlock.exe
+HackWard.exe
+InjectDefender.exe
+BreakSentry.exe
+DebugSentinel.exe
+GuardCodeSupreme.exe
+CodeGuardUltra.exe
+BinarySafeguard.exe
+TamperWarrior.exe
+CrackProtector.exe
+AntiHackGuardian.exe
+PatchNinja.exe
+MalwareSentry.exe
+CodeArmor.exe
+ReverseSentinel.exe
+HackWatch.exe
+InjectWarrior.exe
+BreakProtector.exe
+DebugGuardian.exe
+GuardCodeElitePro.exe
+CodeDefenderUltra.exe
+BinaryWarden.exe
+TamperDefender.exe
+CrackWarden.exe
+AntiReverseElite.exe
+PatchGuardUltra.exe
+MaliciousSafeguard.exe
+CodeGuardSupreme.exe
+ReverseGuardian.exe
+HackSentry.exe
+InjectGuardianPro.exe
+BreakGuardUltra.exe
+DebugDefenderPro.exe
+GuardCodeSupremeElite.exe
+CodeProtectorUltra.exe
+BinarySentinel.exe
+TamperGuardUltra.exe
+CrackGuardian.exe
+AntiReverseSupreme.exe
+PatchDefenderUltra.exe
+MalwareGuardian.exe
+CodeGuardUltraPro.exe
+ReverseProtector.exe
+HackGuardianPro.exe
+InjectGuardianUltra.exe
+BreakSafeguard.exe
+DebugGuardUltra.exe
+GuardCodeSupremeElitePro.exe
+CodeDefenderUltraPro.exe
+BinaryGuardian.exe
+TamperSentinel.exe
+CrackProtectorUltra.exe
+AntiReverseGuardian.exe
+PatchSentinel.exe
+MaliciousDefender.exe
+CodeGuardUltraElite.exe
+ReverseWarden.exe
+HackProtectorPro.exe
+InjectGuardianUltraPro.exe
+BreakGuardian.exe
+DebugSafeguard.exe
+GuardCodeEliteUltra.exe
+CodeProtectorUltraElite.exe
+BinaryDefender.exe
+TamperGuardian.exe
+CrackSentinel.exe
+AntiReverseUltra.exe
+PatchGuardianUltra.exe
+MalwareProtector.exe
+CodeGuardUltraSupreme.exe
+ReverseSentinelElite.exe
+HackDefenderPro.exe
+InjectGuardianUltraElite.exe
+BreakSafeguardPro.exe
+DebugGuardianUltra.exe
+GuardCodeEliteUltraPro.exe
+CodeDefenderUltraElitePro.exe
+BinaryProtector.exe
+TamperSentinelPro.exe
+CrackGuardianUltra.exe
+AntiReverseElitePro.exe
+PatchDefenderUltra.exe
+MaliciousSentinel.exe
+CodeGuardUltraSupremeElite.exe
+ReverseGuardianElite.exe
+HackGuardianUltraPro.exe
+InjectGuardUltra.exe
+BreakGuardianPro.exe
+DebugProtectorUltra.exe
+GuardCodeSupremeUltraElitePro.exe
+CodeDefenderUltraEliteUltraPro.exe
+BinarySentinelElite.exe
+TamperDefenderPro.exe
+CrackGuardianUltraPro.exe
+AntiReverseSupremePro.exe
+PatchSentinelUltra.exe
+MalwareDefenderPro.exe
+CodeGuardUltraEliteUltraPro.exe
+ReverseGuardianUltra.exe
+HackGuardianUltraElitePro.exe
+InjectGuardUltraPro.exe
+BreakGuardianUltra.exe
+DebugGuardianElite.exe
+GuardCodeUltraEliteUltraPro.exe
+CodeDefenderUltraEliteUltraPro.exe
+BinaryProtectorElite.exe
+TamperGuardianElite.exe
+CrackSentinelElitePro.exe
+AntiReverseUltraPro.exe
+PatchGuardianUltraElite.exe
+MaliciousProtector.exe
+CodeGuardUltraEliteElite.exe
+ReverseGuardianSupreme.exe
+HackGuardianUltraEliteElitePro.exe
+InjectGuardianUltraUltra.exe
+BreakGuardianElite.exe
+DebugGuardianUltraElitePro.exe
+GuardCodeUltraEliteEliteUltraPro.exe
+CodeDefenderUltraEliteEliteUltraPro.exe
+BinarySentinelEliteElite.exe
+TamperDefenderElitePro.exe
+CrackGuardianUltraEliteUltraPro.exe
+AntiReverseGuardianPro.exe
+PatchDefenderUltraEliteElite.exe
+MalwareSentinel.exe
+CodeGuardUltraEliteUltraElite.exe
+ReverseGuardianSupremeElite.exe
+HackGuardianUltraEliteEliteElitePro.exe
+InjectGuardianUltraUltraElite.exe
+BreakGuardianElitePro.exe
+DebugGuardianUltraUltra.exe
+GuardCodeUltraEliteEliteEliteUltraPro.exe
+CodeDefenderUltraEliteEliteEliteUltraPro.exe
+BinaryProtectorEliteElite.exe
+TamperSentinelEliteElitePro.exe
+CrackGuardianUltraEliteEliteUltraPro.exe
+AntiReverseGuardianElite.exe
+PatchSentinelUltraEliteElite.exe
+MaliciousDefenderPro.exe
+CodeGuardUltraEliteEliteUltraElite.exe
+ReverseGuardianSupremeElitePro.exe
+HackGuardianUltraEliteUltraEliteElitePro.exe
+InjectGuardianUltraUltraEliteElite.exe
+BreakGuardianEliteUltra.exe
+DebugGuardianUltraUltraElitePro.exe
+GuardCodeUltraEliteEliteEliteEliteUltraPro.exe
+CodeDefenderUltraEliteEliteEliteEliteUltraPro.exe
+BinarySentinelEliteEliteElite.exe
+TamperDefenderEliteEliteElitePro.exe
+CrackGuardianUltraEliteEliteEliteUltraPro.exe
+AntiReverseGuardianElitePro.exe
+PatchDefenderUltraEliteEliteElite.exe
+MalwareProtectorPro.exe
+CodeGuardUltraEliteEliteEliteUltraElite.exe
+ReverseGuardianSupremeEliteElite.exe
+HackGuardianUltraEliteUltraEliteEliteElitePro.exe
+InjectGuardianUltraUltraEliteEliteElite.exe
+HackSeeker.exe
+CodeSnoop.exe
+AntiCodePro.exe
+ReverseInsight.exe
+ScriptCracker.exe
+CodeExtract.exe
+TamperVigil.exe
+BinaryBreak.exe
+DebuggerSeek.exe
+PatcherExpert.exe
+MalwareOpener.exe
+CodeTinker.exe
+GuardianHack.exe
+ObfuscateTool.exe
+BreakGuard.exe
+ReverseProbe.exe
+HackMastermind.exe
+InjectDefend.exe
+BinaryGuardian.exe
+TamperErase.exe
+DebuggerSpy.exe
+CodeThief.exe
+PatcherSpy.exe
+MalwareGuard.exe
+CodeDecipher.exe
+BreakSniffer.exe
+ReverseDecrypt.exe
+HackUncover.exe
+InjectPry.exe
+BinaryHunter.exe
+TamperSnatch.exe
+DebuggerHunter.exe
+CodeDigger.exe
+PatcherCrack.exe
+MalwareHunter.exe
+CodeSnare.exe
+BreakDelve.exe
+ReverseEagle.exe
+HackScanner.exe
+InjectSeek.exe
+BinaryMonitor.exe
+TamperReveal.exe
+DebuggerChaser.exe
+CodeIntercept.exe
+PatcherDetect.exe
+MalwareSearch.exe
+CodeRat.exe
+BreakHawk.exe
+ReverseVulture.exe
+HackInspector.exe
+InjectScan.exe
+BinaryEyes.exe
+TamperFinder.exe
+DebuggerHound.exe
+CodeCatcher.exe
+PatcherTrack.exe
+MalwareSniffer.exe
+CodeSeek.exe
+BreakStalk.exe
+ReverseSeeker.exe
+HackTracer.exe
+InjectSpy.exe
+BinaryPeeper.exe
+TamperGather.exe
+DebuggerFinder.exe
+CodeSniffer.exe
+PatcherScout.exe
+MalwareTrapper.exe
+CodeFisher.exe
+BreakWatcher.exe
+ReverseLookout.exe
+HackLurker.exe
+InjectLurk.exe
+BinarySurveil.exe
+TamperSurvey.exe
+DebuggerMonitor.exe
+CodeSurveyor.exe
+PatcherObserver.exe
+MalwareWatcher.exe
+CodeWatcher.exe
+BreakMonitor.exe
+ReverseObserver.exe
+HackObserver.exe
+InjectObserver.exe
+BinaryObserver.exe
+TamperObserver.exe
+DebuggerObserver.exe
+CodeObserver.exe
+PatcherObserver.exe
+MalwareObserver.exe
+x32_dbg64.exe
+RadareGUI.exe
+MegaDumper64.exe
+ResourceEditor.exe
+PE-Scrambler.exe
+PE-Armor.exe
+UniversalFixer.exe
+Nemesis32.exe
+xAnalyzer.exe
+StringEncryptor.exe
+ScyllaHideGUI.exe
+VXUG.exe
+PythonLauncher.exe
+Eradicator.exe
+EnigmaVirtualBox.exe
+ImpREC.exe
+Ryujinx.exe
+Yuzu.exe
+Citra.exe
+Xenos64.exe
+ReClass.NET.exe
+CFF Explorer64.exe
+ExeinfoPe64.exe
+MinGW64.exe
+Ncat.exe
+Netcat.exe
+DLL Inject.exe
+DLL Extractor.exe
+DLL Viewer.exe
+DLL Decompiler.exe
+DLL Analyzer.exe
+DLL Unpacker.exe
+DLL Ripper.exe
+DLL Packer.exe
+DLL Scrubber.exe
+DLL Renamer.exe
+DLL Mangler.exe
+DLL Examiner.exe
+DLL Hijacker.exe
+DLL Swapper.exe
+DLL Splicer.exe
+DLL Confuser.exe
+DLL Reanimator.exe
+DLL Dismantler.exe
+DLL Dissector.exe
+DLL Investigator.exe
+DLL Eraser.exe
+DLL Dissolver.exe
+DLL Disassembler.exe
+DLL Drainer.exe
+DLL Denier.exe
+DLL Curator.exe
+DLL Confiscator.exe
+DLL Decoiler.exe
+DLL Debunker.exe
+DLL Fragmenter.exe
+DLL Fusilier.exe
+DLL Marauder.exe
+DLL Oppressor.exe
+DLL Phalanx.exe
+DLL Quarantine.exe
+DLL Saboteur.exe
+DLL Silencer.exe
+DLL Vandal.exe
+DLL Vortex.exe
+DLL Zephyr.exe
+DLL Whisperer.exe
+DLL Shredder.exe
+DLL Purger.exe
+DLL Warden.exe
+DLL Demolisher.exe
+DLL Vanisher.exe
+DLL Scrambler.exe
+DLL Cipher.exe
+DLL Encryptor.exe
+DLL Obfuscator.exe
+DLL Encrypter.exe
+DLL Camouflage.exe
+DLL Hiddenizer.exe
+DLL Protector.exe
+DLL Concealer.exe
+DLL Encryptor.exe
+DLL Opaque.exe
+DLL Stealth.exe
+DLL Phantom.exe
+DLL Mirage.exe
+DLL Evasion.exe
+DLL Eclipse.exe
+DLL Shadow.exe
+DLL Veil.exe
+DLL Cover.exe
+DLL Masker.exe
+DLL Cloak.exe
+DLL Ghost.exe
+DLL Shade.exe
+DLL Umbra.exe
+DLL Mirage.exe
+DLL Shroud.exe
+DLL Fog.exe
+DLL Enigma.exe
+DLL Nebula.exe
+keygen.exe
+patch.exe
+crack.exe
+loader.exe
+activator.exe
+activator_v1.exe
+activator_v2.exe
+activator_v3.exe
+activator_v4.exe
+activator_v5.exe
+activator_v6.exe
+activator_v7.exe
+activator_v8.exe
+activator_v9.exe
+activator_v10.exe
+activator_v11.exe
+activator_v12.exe
+activator_v13.exe
+activator_v14.exe
+activator_v15.exe
+activator_v16.exe
+activator_v17.exe
+activator_v18.exe
+activator_v19.exe
+activator_v20.exe
+activator_v21.exe
+activator_v22.exe
+activator_v23.exe
+activator_v24.exe
+activator_v25.exe
+activator_v26.exe
+activator_v27.exe
+activator_v28.exe
+activator_v29.exe
+activator_v30.exe
+cracktool.exe
+cracktool_v1.exe
+cracktool_v2.exe
+cracktool_v3.exe
+cracktool_v4.exe
+cracktool_v5.exe
+cracktool_v6.exe
+cracktool_v7.exe
+cracktool_v8.exe
+cracktool_v9.exe
+cracktool_v10.exe
+cracktool_v11.exe
+cracktool_v12.exe
+cracktool_v13.exe
+cracktool_v14.exe
+cracktool_v15.exe
+cracktool_v16.exe
+cracktool_v17.exe
+cracktool_v18.exe
+cracktool_v19.exe
+cracktool_v20.exe
+cracktool_v21.exe
+cracktool_v22.exe
+cracktool_v23.exe
+cracktool_v24.exe
+cracktool_v25.exe
+cracktool_v26.exe
+cracktool_v27.exe
+cracktool_v28.exe
+cracktool_v29.exe
+cracktool_v30.exe
+reversingtool.exe
+reversingtool_v1.exe
+reversingtool_v2.exe
+reversingtool_v3.exe
+reversingtool_v4.exe
+reversingtool_v5.exe
+reversingtool_v6.exe
+reversingtool_v7.exe
+reversingtool_v8.exe
+reversingtool_v9.exe
+reversingtool_v10.exe
+reversingtool_v11.exe
+reversingtool_v12.exe
+reversingtool_v13.exe
+reversingtool_v14.exe
+reversingtool_v15.exe
+reversingtool_v16.exe
+reversingtool_v17.exe
+reversingtool_v18.exe
+reversingtool_v19.exe
+reversingtool_v20.exe
+reversingtool_v21.exe
+reversingtool_v22.exe
+reversingtool_v23.exe
+reversingtool_v24.exe
+reversingtool_v25.exe
+reversingtool_v26.exe
+reversingtool_v27.exe
+reversingtool_v28.exe
+reversingtool_v29.exe
+reversingtool_v30.exe
