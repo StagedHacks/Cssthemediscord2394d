@@ -164,3 +164,62 @@ worm32.sys
 worm64.sys
 exploit32.sys
 exploit64.sys
+ollydbg.exe
+windbg.exe
+ida.exe
+x64dbg.exe
+ImmunityDebugger.exe
+edb.exe
+PETools.exe
+Syser Debugger.exe
+r2.exe
+dbg.exe
+protection_id.exe
+LordPE.exe
+API Monitor.exe
+Scylla.exe
+HopperDisassembler v4.exe
+Radare2.exe
+CFF Explorer.exe
+WinDbg Preview.exe
+ReClass.NET.exe
+MegaDumper.exe
+Code::Blocks.exe
+GNU gdb.exe
+Frida.exe
+Salamander.exe
+Binary Ninja.exe
+diStorm64.exe
+dumpcap.exe
+Wireshark.exe
+MDBG.exe
+FDBG.exe
+XNAGameStudio.exe
+Advanced BAT to EXE Converter.exe
+de4dot.exe
+x96dbg.exe
+PE-bear.exe
+procdump.exe
+procdump64.exe
+procmon.exe
+procmon64.exe
+Petite.exe
+importREC.exe
+X64NetReflector.exe
+Reflector.exe
+de4dot.exe
+cyphor.dll
+de4dot.exe
+dnlib.dll
+dnlib.pdb
+icsharpcode.sharpziplib.dll
+icsharpcode.sharpziplib.pdb
+libeay32.dll
+libeay32.pdb
+de4dot.Helpers.dll
+de4dot.Helpers.pdb
+dnlib.dll
+dnlib.pdb
+icsharpcode.sharpziplib.dll
+icsharpcode.sharpziplib.pdb
+discord.exe
