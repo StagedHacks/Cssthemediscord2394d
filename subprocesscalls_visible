@@ -1,0 +1,109 @@
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\DriverDesc 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\ProviderName 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\ACPI\DSDT\VBOX__ 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\ACPI\FADT\VBOX__ 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\VBoxMouse 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Oracle\VirtualBox 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Tools 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0\Logical Unit Id 0\Identifier 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\Description\System\BIOS 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\Description\System\CentralProcessor\0 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\Description\System\CentralProcessor\1 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\Description\System\SystemBuses\PCI 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Parallels\Parallels Tools\GuestTools\Version 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Virtual Machine\Guest\Parameters 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\ACPI\RSDT\VBOX__ 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\DEVICEMAP\VIDEO 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\DEVICEMAP\HARDWARE\RESOURCEMAP 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\DEVICEMAP\SERIALCOMM 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\DEVICEMAP\PARALLEL PORTS 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VBOX__ 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VMware 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\XenDriver 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\Bochs 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\QEMU 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\VBoxGuest 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\VBoxService 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\vmware-guestd 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\XenGuestAgent 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\qemu-ga 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Citrix\XenTools\Version 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\VBOX__ 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\VMware 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\HARDWARE\Description\System\Video 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\BochsDisplay 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\BochsKeyboard 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\BochsMouse 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\QEMUAudio 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VMwareVirtualAudio 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VBoxUSB 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\XenBus 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware SVGA II 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\QEMU_GA 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\QEMU 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\VirtualIron 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VirtualBox 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VMWare 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\Hyper-V 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\BochsDvd 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\BochsFloppy 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\QEMUMouse 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VMwareMouse 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\VBoxMouse 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\windbg.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\idaq.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ollydbg.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\x32dbg.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ImmunityDebugger.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\gdb.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\hexrays.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\hiew32.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\010Editor.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\HexWorkshop.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Bless.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wxHexEditor.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Radare2.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\IDA64.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\odbg110.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\JEB2.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PEiD.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PEview.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Die.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Proview.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\reshacker.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ILSpy.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Reflector.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CrackMe.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\SmartSniff.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Wireshark.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Ethereal.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Fiddler.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\OLLYICE.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CheatEngine.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ArtMoney.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\TSearch.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\GameGuardian.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\IDA.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\FRIDA.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PyDBG.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\OllyDump.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Clutch.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ImmunityDebugger.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\X64dbg.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\OllyAdvanced.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\IDAPro.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\HexRaysDecompiler.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Ghidra.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Radare2.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Cutter.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PEiD.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\RDG Packer Detector.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ExeinfoPE.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Procdump.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PETools.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\FreeHexEditor.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\HexEditorNeo.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\010Editor.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\HxD.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\HexFiend.exe 2> nul
+REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wxHexEditor.exe 2
